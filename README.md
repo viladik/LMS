@@ -1,2 +1,2 @@
 # LMS
-it's a Learn Managing System i'lll make.... local website (insert epic face)
+it's a Learning Management System i'll make.... a local website lol(insert epic face)
